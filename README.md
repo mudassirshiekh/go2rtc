@@ -97,6 +97,7 @@ Ultimate camera streaming application with support RTSP, WebRTC, HomeKit, FFmpeg
 * [FAQ](#faq)
 
 ## Fast start
+## By Mudassir Alam
 
 1. Download [binary](#go2rtc-binary) or use [Docker](#go2rtc-docker) or Home Assistant [Add-on](#go2rtc-home-assistant-add-on) or [Integration](#go2rtc-home-assistant-integration)
 2. Open web interface: `http://localhost:1984/`
