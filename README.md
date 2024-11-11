@@ -30,6 +30,7 @@ Ultimate camera streaming application with support RTSP, WebRTC, HomeKit, FFmpeg
 - can be [integrated to](#module-api) any smart home platform or be used as [standalone app](#go2rtc-binary)
 
 **Inspired by:**
+## By Mudassir Alam
 
 - series of streaming projects from [@deepch](https://github.com/deepch)
 - [webrtc](https://github.com/pion/webrtc) go library and whole [@pion](https://github.com/pion) team
